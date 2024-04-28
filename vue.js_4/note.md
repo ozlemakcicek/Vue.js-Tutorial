@@ -1,0 +1,1 @@
+# Memory.vue componentini olusturduk.BootstrapVue nun cdn linkini alip index.html ye yapistirdik.App. vue yu bosaltalim ve Memory comp.ni, App.vue icine script icinde import edelim.export default altinda ise component olusturp Memory ye esitleyelim ve template tarafinda da container row altinda istedigin bir isimle bu component tagini yaz
